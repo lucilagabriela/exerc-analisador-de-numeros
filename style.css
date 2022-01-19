@@ -1,0 +1,19 @@
+@charset "UTF8";
+
+body {
+    background-color: #000;
+    color: #E1E1E6;
+    text-align: center;
+}
+
+main {
+    background-color: #2C4590;
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+#botao {
+    margin-top: 10px;
+}
