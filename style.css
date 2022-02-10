@@ -17,3 +17,8 @@ main {
 #botao {
     margin-top: 10px;
 }
+
+#list {
+    margin-top: 20px;
+    width: 200px;
+}
